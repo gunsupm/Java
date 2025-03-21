@@ -1,1 +1,1 @@
-# Shop Management System (JAVA)
+# Phone Shop Management System (JAVA)
